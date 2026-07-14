@@ -1,0 +1,20 @@
+name: trainer
+
+entry_points:
+  train:
+    parameters:
+      n_estimators:
+        type: int
+        default: 100
+      max_depth:
+        type: int
+        default: 10
+      test_size:
+        type: float
+        default: 0.2
+      random_seed:
+        type: int
+        default: 42
+    command: >
+      python train.py
+      --n_estimators {n_estimators} --max_depth {max_depth} --test_size {test_size} --random_seed {random_seed}

@@ -40,7 +40,7 @@ By the end of the 100 days, you should be able to:
 
 ## Challenge Progress
 
-![26%](https://progress-bar.xyz/26)
+![28%](https://progress-bar.xyz/28)
 
 ## Daily Challenges
 
@@ -73,7 +73,7 @@ By the end of the 100 days, you should be able to:
 | 25 | Register, Version, and Manage Model Lifecycle | MLflow, model registry, lifecycle | [Solved](days/025.md) |
 | 26 | Compare Model Runs and Select the Best | MLflow, model comparison, selection | [Solved](days/026.md) |
 | 27 | Load Model from Registry with Custom Preprocessing | MLflow, registry, preprocessing | Pending |
-| 28 | Fix a Broken MLflow Project and Re-Run It | MLflow, debugging, project recovery | Pending |
+| 28 | Fix a Broken MLflow Project and Re-Run It | MLflow, debugging, project recovery | [Solved](days/028.md) |
 | 29 | Configure MLflow with Remote Tracking Server and Artifact Store | MLflow, remote tracking, artifacts | Pending |
 | 30 | End-to-End MLflow Lifecycle: Train, Register, Serve, Monitor | MLflow, lifecycle, deployment, monitoring | Pending |
 | 31 | Train a Scikit-Learn Model with Reproducible Script | scikit-learn, training script, reproducibility | Pending |
