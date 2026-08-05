@@ -169,13 +169,6 @@ If this repository helped you in your DevOps journey:
 ## 📄 License
 
 This project is licensed under the GPL License - see the [LICENSE](LICENSE) file for details.
-
-## 🔗 Connect With Me
-
-- **GitHub**: [@imshakil](https://github.com/imshakil)
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/imshakil)
-- **Medium**: [@imshakil](https://medium.com/@imshakil)
-
 ---
 
 **Happy Learning!**
