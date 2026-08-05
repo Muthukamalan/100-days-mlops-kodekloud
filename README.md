@@ -3,11 +3,6 @@
 This repository contains the code and resources for the **100 Days of MLOps** challenge by KodeKloud. The course is designed to help you learn and practice MLOps concepts and techniques over a span of 100 days.
 
 ---
-[![GitHub stars](https://img.shields.io/github/stars/imshakil/100-days-mlops-kodekloud?style=social)](https://github.com/imshakil/100-days-mlops-kodekloud/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/imshakil/100-days-mlops-kodekloud?style=social)](https://github.com/imshakil/100-days-mlops-kodekloud/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/imshakil/100-days-mlops-kodekloud)](https://github.com/imshakil/100-days-mlops-kodekloud/issues)
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FimShakil%2F100-days-mlops-kodekloud&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
-
 ## Course Overview
 
 This challenge walks through core MLOps practice end to end. You start with local Python setup, project structure, and code quality, then move through data versioning, experiment tracking, model registry, training pipelines, serving, monitoring, CI/CD, and Kubernetes-based deployment.
